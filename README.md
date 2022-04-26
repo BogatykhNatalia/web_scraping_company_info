@@ -2,6 +2,7 @@
 
 # Task 1 #
 - main script - task1.ipynb
+- main processing script - processing.py
 - utils script - task1_utils.py
 - interim data - dataset.json
 - final data - task1_info_dataset.xlsx
